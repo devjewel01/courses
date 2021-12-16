@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-BAPS is reponsible for judging and problem-setting of different national and international programming contests in Bangldesh. This is the official blog of BAPS. This blog holds the guideline for hosts to work with BAPS. Also, the site have important resources for those who wants to progress as a top level contestant.
+3 months Robotics and Programming Training for high school student.
 
 ### Contact us
 
-[baps.bgd@gmail.com](mailto:baps.bgd@gmail.com)
+[devjewel01@stud.cou.ac.bd](mailto:devjewel01@stud.cou.ac.bd)
